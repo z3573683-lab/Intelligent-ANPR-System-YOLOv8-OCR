@@ -65,6 +65,36 @@ After applying advanced preprocessing techniques, the system achieved a 76.3% su
 
 بعد تطبيق تقنيات المعالجة المتقدمة، حقق النظام نسبة نجاح 76.3% على كامل مجموعة البيانات، مع درجة ثقة تتجاوز 90% في الصور الواضحة
 
+
+## 📊 Model Performance & Visual Results | نتائج الأداء والمعاينة البصرية
+
+### 1️⃣ Evaluation Metrics (التقييم الرقمي)
+Below are the training results and confusion matrix, demonstrating the model's high precision in detecting license plates.
+
+<p align="center">
+  <img src="results.png" width="45%" alt="Training Results" />
+  <img src="confusion_matrix.png" width="45%" alt="Confusion Matrix" />
+</p>
+
+---
+
+### 2️⃣ Detection & OCR In Action (المعاينة العملية)
+Real-world examples showing the successful localization of the plate and text extraction.
+
+<p align="center">
+  <img src="val_batch0_labels.jpg" width="45%" alt="Ground Truth" />
+  <img src="val_batch0_pred.jpg" width="45%" alt="Model Predictions" />
+</p>
+
+---
+
+### 3️⃣ Model Interpretation with Grad-CAM (تفسير قرارات الموديل)
+Using Grad-CAM to ensure the model focuses on the plate features for decision making.
+
+<p align="center">
+  <img src="gradcam_result.png" width="60%" alt="Grad-CAM Heatmap" />
+</p>
+
 ​👨‍💻 Author | 
 صاحب المشروع
 
