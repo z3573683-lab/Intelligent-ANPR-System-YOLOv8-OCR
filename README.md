@@ -40,17 +40,36 @@ This project is a complete end-to-end pipeline for detecting and recognizing veh
 ​Model Training: Training YOLOv8 on custom dataset.
 
 ​Plate Detection: Locating the bounding box of the plate.
+
 ​Grad-CAM Visualization: Explaining model decisions.
+
 ​Cropping: Extracting the plate region.
+
 ​Image Preprocessing: Grayscale, Resizing, and Thresholding.
+
 ​OCR Execution: Passing the "cleaned" plate to EasyOCR.
+
 ​Post-processing: Cleaning the predicted text.
+
 ​Accuracy Analysis: Generating confidence distribution histograms.
+
 ​Inference: Testing the full system on random unseen images.
-​📊 Results & Performance | النتائج والأداء
-​English: After applying advanced preprocessing techniques, the system achieved a 76.3% success rate across the entire dataset, with a high confidence score of 90%+ on clear images.
-​بالعربية: بعد تطبيق تقنيات المعالجة المتقدمة، حقق النظام نسبة نجاح 76.3% على كامل مجموعة البيانات، مع درجة ثقة تتجاوز 90% في الصور الواضحة.
-​👨‍💻 Author | صاحب المشروع
+
+​📊 Results & Performance | 
+النتائج والأداء
+
+​English:
+
+After applying advanced preprocessing techniques, the system achieved a 76.3% success rate across the entire dataset, with a high confidence score of 90%+ on clear images.
+​بالعربية:
+
+بعد تطبيق تقنيات المعالجة المتقدمة، حقق النظام نسبة نجاح 76.3% على كامل مجموعة البيانات، مع درجة ثقة تتجاوز 90% في الصور الواضحة
+
+​👨‍💻 Author | 
+صاحب المشروع
+
 ​Mohamed Belal
+
 Data Science & AI Professional Diploma Graduate
+
 Specialized in Computer Vision & Deep Learning
