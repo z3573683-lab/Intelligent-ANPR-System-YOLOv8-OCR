@@ -82,7 +82,7 @@ After applying advanced preprocessing techniques, the system achieved a 76.3% su
 
 4. **OCR Extraction Results Sample**
 
-![OCR Extraction Results Sample](OCR_Extraction_Results_Sample.jpg)
+![OCR Extraction Results Sample](OCR_Extraction_Results_Sample.png)
 
 ---
 
