@@ -94,7 +94,7 @@ After applying advanced preprocessing techniques, the system achieved a 76.3% su
 
 6. **Overall System Performance Metrics**
 
-![Overall System Performance Metrics](Overall_System_Performance_Metrics.jpg)
+![Overall System Performance Metrics](Overall_System_Performance_Metrics.png)
 
 7. **Confusion Matrix Precision**
 
