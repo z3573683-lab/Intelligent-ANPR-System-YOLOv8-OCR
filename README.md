@@ -68,33 +68,42 @@ After applying advanced preprocessing techniques, the system achieved a 76.3% su
 
 ### 🔍 Project Results and Visualizations
 
-1. **[End-to-End Inference Example](End_to_End_Inference_Example.jpg)**
-   ![End-to-End Inference Example](End_to_End_Inference_Example.jpg)
+1. **[End-to-End Inference Example](./End_to_End_Inference_Example.jpg)**
+   
+![End-to-End Inference Example](./End_to_End_Inference_Example.jpg)
 
-2. **[License Plate Detection with Grad-CAM](License_Plate_Detection_with_GradCAM.jpg)**
-   ![License Plate Detection with Grad-CAM](License_Plate_Detection_with_GradCAM.jpg)
+2. **[License Plate Detection with Grad-CAM](./License_Plate_Detection_with_GradCAM.jpg)**
+   
+![License Plate Detection with Grad-CAM](./License_Plate_Detection_with_GradCAM.jpg)
 
-3. **[Validation Batch Labels Sample](Validation_Batch_Labels_Sample.jpg)**
-   ![Validation Batch Labels Sample](Validation_Batch_Labels_Sample.jpg)
+3. **[Validation Batch Labels Sample](./Validation_Batch_Labels_Sample.jpg)**
+   
+![Validation Batch Labels Sample](./Validation_Batch_Labels_Sample.jpg)
 
-4. **[OCR Extraction Results Sample](OCR_Extraction_Results_Sample.jpg)**
-   ![OCR Extraction Results Sample](OCR_Extraction_Results_Sample.jpg)
+4. **[OCR Extraction Results Sample](./OCR_Extraction_Results_Sample.jpg)**
+   
+![OCR Extraction Results Sample](./OCR_Extraction_Results_Sample.jpg)
 
 ---
 
 ### 📈 Metrics and Analysis Curves
 
-5. **[Model Training Summary Metrics](Model_Training_Summary_Metrics.jpg)**
-   ![Model Training Summary Metrics](Model_Training_Summary_Metrics.jpg)
+5. **[Model Training Summary Metrics](./Model_Training_Summary_Metrics.jpg)**
+   
+![Model Training Summary Metrics](./Model_Training_Summary_Metrics.jpg)
 
-6. **[Overall System Performance Metrics](Overall_System_Performance_Metrics.jpg)**
-   ![Overall System Performance Metrics](Overall_System_Performance_Metrics.jpg)
+6. **[Overall System Performance Metrics](./Overall_System_Performance_Metrics.jpg)**
+   
+![Overall System Performance Metrics](./Overall_System_Performance_Metrics.jpg)
 
-7. **[Confusion Matrix Precision](Confusion_Matrix_Precision.jpg)**
-   ![Confusion Matrix Precision](Confusion_Matrix_Precision.jpg)
+7. **[Confusion Matrix Precision](./Confusion_Matrix_Precision.jpg)**
+   
+![Confusion Matrix Precision](./Confusion_Matrix_Precision.jpg)
 
-8. **[Precision Confidence Curve](Precision_Confidence_Curve.jpg)**
-   ![Precision Confidence Curve](Precision_Confidence_Curve.jpg)
+8. **[Precision Confidence Curve](./Precision_Confidence_Curve.jpg)**
+   
+![Precision Confidence Curve](./Precision_Confidence_Curve.jpg)
+
 ​👨‍💻 Author | 
 صاحب المشروع
 
