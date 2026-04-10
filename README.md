@@ -66,35 +66,35 @@ After applying advanced preprocessing techniques, the system achieved a 76.3% su
 بعد تطبيق تقنيات المعالجة المتقدمة، حقق النظام نسبة نجاح 76.3% على كامل مجموعة البيانات، مع درجة ثقة تتجاوز 90% في الصور الواضحة
 
 
-## 📊 Model Performance & Visual Results | نتائج الأداء والمعاينة البصرية
+### 🔍 Project Results and Visualizations
 
-### 1️⃣ Evaluation Metrics (التقييم الرقمي)
-Below are the training results and confusion matrix, demonstrating the model's high precision in detecting license plates.
+1. **[End-to-End Inference Example](End_to_End_Inference_Example.jpg)**
+   ![End-to-End Inference Example](End_to_End_Inference_Example.jpg)
 
-<p align="center">
-  <img src="results.png" width="45%" alt="Training Results" />
-  <img src="confusion_matrix.png" width="45%" alt="Confusion Matrix" />
-</p>
+2. **[License Plate Detection with Grad-CAM](License_Plate_Detection_with_GradCAM.jpg)**
+   ![License Plate Detection with Grad-CAM](License_Plate_Detection_with_GradCAM.jpg)
 
----
+3. **[Validation Batch Labels Sample](Validation_Batch_Labels_Sample.jpg)**
+   ![Validation Batch Labels Sample](Validation_Batch_Labels_Sample.jpg)
 
-### 2️⃣ Detection & OCR In Action (المعاينة العملية)
-Real-world examples showing the successful localization of the plate and text extraction.
-
-<p align="center">
-  <img src="val_batch0_labels.jpg" width="45%" alt="Ground Truth" />
-  <img src="val_batch0_pred.jpg" width="45%" alt="Model Predictions" />
-</p>
+4. **[OCR Extraction Results Sample](OCR_Extraction_Results_Sample.jpg)**
+   ![OCR Extraction Results Sample](OCR_Extraction_Results_Sample.jpg)
 
 ---
 
-### 3️⃣ Model Interpretation with Grad-CAM (تفسير قرارات الموديل)
-Using Grad-CAM to ensure the model focuses on the plate features for decision making.
+### 📈 Metrics and Analysis Curves
 
-<p align="center">
-  <img src="gradcam_result.png" width="60%" alt="Grad-CAM Heatmap" />
-</p>
+5. **[Model Training Summary Metrics](Model_Training_Summary_Metrics.jpg)**
+   ![Model Training Summary Metrics](Model_Training_Summary_Metrics.jpg)
 
+6. **[Overall System Performance Metrics](Overall_System_Performance_Metrics.jpg)**
+   ![Overall System Performance Metrics](Overall_System_Performance_Metrics.jpg)
+
+7. **[Confusion Matrix Precision](Confusion_Matrix_Precision.jpg)**
+   ![Confusion Matrix Precision](Confusion_Matrix_Precision.jpg)
+
+8. **[Precision Confidence Curve](Precision_Confidence_Curve.jpg)**
+   ![Precision Confidence Curve](Precision_Confidence_Curve.jpg)
 ​👨‍💻 Author | 
 صاحب المشروع
 
