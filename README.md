@@ -74,7 +74,7 @@ After applying advanced preprocessing techniques, the system achieved a 76.3% su
 
 2. **License Plate Detection with Grad-CAM**
 
-![License Plate Detection with Grad-CAM](License_Plate_Detection_with_GradCAM.jpg)
+![License Plate Detection with Grad-CAM](License_Plate_Detection_with_GradCAM.png)
 
 3. **Validation Batch Labels Sample**
 
