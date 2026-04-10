@@ -70,7 +70,7 @@ After applying advanced preprocessing techniques, the system achieved a 76.3% su
 
 1. **[End-to-End Inference Example](./End_to_End_Inference_Example.jpg)**
    
-![End-to-End Inference Example](./End_to_End_Inference_Example.jpg)
+![End-to-End Inference Example](End_to_End_Inference_Example.jpg)
 
 2. **[License Plate Detection with Grad-CAM](./License_Plate_Detection_with_GradCAM.jpg)**
    
