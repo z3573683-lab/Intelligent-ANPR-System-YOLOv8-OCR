@@ -78,7 +78,7 @@ After applying advanced preprocessing techniques, the system achieved a 76.3% su
 
 3. **Validation Batch Labels Sample**
 
-![Validation Batch Labels Sample](Validation_Batch_Labels_Sample.jpg)
+![Validation Batch Labels Sample](Validation_Batch_Labels_Sample.png)
 
 4. **OCR Extraction Results Sample**
 
