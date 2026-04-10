@@ -98,7 +98,7 @@ After applying advanced preprocessing techniques, the system achieved a 76.3% su
 
 7. **Confusion Matrix Precision**
 
-![Confusion Matrix Precision](Confusion_Matrix_Precision.jpg)
+![Confusion Matrix Precision](Confusion_Matrix_Precision.png)
 
 8. **Precision Confidence Curve**
 
