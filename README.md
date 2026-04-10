@@ -90,7 +90,7 @@ After applying advanced preprocessing techniques, the system achieved a 76.3% su
 
 5. **[Model Training Summary Metrics](./Model_Training_Summary_Metrics.jpg)**
    
-![Model Training Summary Metrics](./Model_Training_Summary_Metrics.jpg)
+![Model Training Summary Metrics](Model_Training_Summary_Metrics.jpg)
 
 6. **[Overall System Performance Metrics](./Overall_System_Performance_Metrics.jpg)**
    
