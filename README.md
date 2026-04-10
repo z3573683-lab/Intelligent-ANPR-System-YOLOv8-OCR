@@ -102,7 +102,7 @@ After applying advanced preprocessing techniques, the system achieved a 76.3% su
 
 8. **Precision Confidence Curve**
 
-![Precision Confidence Curve](Precision_Confidence_Curve.jpg)
+![Precision Confidence Curve](Precision_Confidence_Curve.png)
 
 ​👨‍💻 Author | 
 صاحب المشروع
